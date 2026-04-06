@@ -17,10 +17,11 @@ If you are developing a production application, we recommend using TypeScript wi
 ---
 ## 🛡️ Propriedade Intelectual (Intellectual Property)
 
-Este sistema foi desenvolvido integralmente por **Guillermo Roger Hernandez** como projeto acadêmico do curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
+Este sistema foi desenvolvido integralmente por **Guillermo Roger Hernandez**. 
+Projeto original focado em análise de mercado em tempo real.
 
+- **Desenvolvedor:** Guillermo Roger Hernandez
 - **Status:** Todos os Direitos Reservados (All Rights Reserved).
-- **Ano:** 2026
-- **Local:** Laboratório Itapevi v8.0
+- **Versão:** Itapevi v8.0 / 2026
 
-> **Aviso:** É terminantemente proibida a cópia, reprodução ou uso comercial deste código, lógica ou interface sem a autorização prévia e expressa do autor.
+> **Aviso de Proteção:** É terminantemente proibida a cópia, reprodução, modificação ou uso comercial deste código, lógica ou interface sem a autorização prévia e expressa do autor.
